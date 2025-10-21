@@ -46,7 +46,7 @@ Inside the main.py, you can comment/uncomment the relevant sections:
 * Video recognition – for processing real-time or recorded videos.
 
 ## Result
-![alt text](https://github.com/Lkhanh2177/License_Plate_Recognition/result/1.png)
+![alt text](https://github.com/Lkhanh2177/License_Plate_Recognition/blob/main/result/1.png)
  
 
 
